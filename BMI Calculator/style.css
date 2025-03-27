@@ -6,7 +6,7 @@ body {
     /* align-items: center; */
     margin-top: 11%;
 }
-
+/* 
 button {
     background-color: rgba(0,0,0,0);
     outline: none;
@@ -73,4 +73,4 @@ form p:nth-child(1){
         margin-left: auto;
         margin-right: auto;
     }
-}
+} 
